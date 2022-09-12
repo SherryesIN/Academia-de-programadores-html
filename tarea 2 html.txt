@@ -1,0 +1,39 @@
+Crea una hoja de vida en HTML
+En grupos de 3 a 4 personas
+
+Escoge dentro de tu grupo un Kata Master (KM), los pasos marcados con (KM) serán ejecutados únicamente 
+por el Kata Master quien compartirá su pantalla con el resto del grupo mientras los ejecuta.
+
+(KM) Crea la carpeta para este trabajo en VSCode.
+
+(KM) Escoge un personaje de la industria del desarrollo de software.
+
+(KM) Inicializa el repositorio, crea la rama main y añade el archivo cv.html.
+
+(KM) Sube el repositorio a GitHub, hazlo público para que los integrantes de tu grupo puedan verlo,
+ de ser necesario añade a los integrantes de tu grupo como colaboradores para que puedan subir código, 
+ crear Pull Requests y aprobar cambios.
+
+(KM) Crea la estructura básica de un documento HTML, cambia el título por el nombre del personaje 
+seleccionado.
+
+Dividan dentro de los integrantes del grupo el desarrollo de las siguientes secciones, 
+cada uno en su repositorio:
+
+Añade elementos de tipo encabezado (h1,h2,h3, ... ) 
+para crear las siguientes secciones para la hoja de vida:
+
+Información general: Nombre y apellido, email, teléfono, ubicación actual (Sí aplica), 
+links a GitHub y a LinkedIn, si esta información no es obtenible puedes invertarla
+
+Información biográfica del personaje: Información referente a sus logros, estudios, publicaciones, etc
+
+Experiencia, usando una lista (ul,ol) describe la experiencia profesional del personaje seleccionado,
+indicando el nombre de la empresa y cargo. Si no tiene experiencia consultable no te preocupes pon la 
+experiencia que te imaginas que podría tener
+
+Campos de influencia, usando una tabla (table,td,tr) describe los campos en donde tuvo influencia el 
+personaje indicando su nombre (e.g. Aplicaciones móviles, Realidad aumentada, Inteligencia artificial, 
+Robótica, etc) y el aporte realizado en cada uno los campos.
+
+Comparte el resultado en la caja a continuación (cada integrante debe copiar el mismo link)
